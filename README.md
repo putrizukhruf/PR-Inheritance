@@ -1,10 +1,11 @@
 # PR-Inheritance
 Modifikasi Game RPG
+
 ## Kelompok :
     - Mushfani Ainul Urwah (1901671)
     - Putri Zukhruf Dinata (1900454)
 
-## Inherintance dan Pholimopism
+## Inherintance dan Pholimorpism
     Karakter (parent) :
     - musuh (child)
     - player (child)
@@ -16,6 +17,9 @@ Modifikasi Game RPG
       objek : pedang sama pisau
     - passiveitem (child)
       objek : baju, jaket, topi
+      
+    Pholimorpism :
+    - objek seluruh item disimpan di ruangan
 
 ## Tambahan Lainnya
     - menambahkan init musuh, pedang, pisau, obat, vitamin -> di class Ruangan
@@ -26,4 +30,6 @@ Modifikasi Game RPG
     - jika player item pisau attack musuh berkurang 30
     - di objek vitamin menambahkan health dan magic pada karakter
     - menambahkan override pada class BuffItem dan ActiveItem
+
+
                         
