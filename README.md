@@ -21,7 +21,7 @@ Modifikasi Game RPG
     Pholimorpism :
     - objek seluruh item disimpan di ruangan
 
-## Tambahan Lainnya
+## Tambahan
     - menambahkan init musuh, pedang, pisau, obat, vitamin -> di class Ruangan
     - menambah pilihan aksi musuh -> di class ruangan
     - pada class musuh ada arrayAksi, dan proses aksi yaitu menampilkan attack musuh dan menyerang musuh
